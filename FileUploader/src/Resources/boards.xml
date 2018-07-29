@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boardlist>
+  <board>
+    <name>Arduino Uno(Optiboot V3)</name>
+    <bootloader_address>32256</bootloader_address>
+    <upload_speed>115200</upload_speed>
+    <dtr_control>EnableAndThrough</dtr_control>
+    <software_major_version>3</software_major_version>
+    <software_minor_version>0</software_minor_version>
+  </board>
+  <board>
+    <name>Arduino Uno(Optiboot V4-V7)</name>
+    <bootloader_address>32256</bootloader_address>
+    <upload_speed>115200</upload_speed>
+    <dtr_control>EnableAndThrough</dtr_control>
+    <software_major_version>7</software_major_version>
+    <software_minor_version>0</software_minor_version>
+  </board>
+  <board>
+    <name>Arduino Duemilanove</name>
+    <bootloader_address>30720</bootloader_address>
+    <upload_speed>57600</upload_speed>
+    <dtr_control>Enable1000mSecAndDisable</dtr_control>
+    <software_major_version>1</software_major_version>
+    <software_minor_version>16</software_minor_version>
+  </board>
+</boardlist>
